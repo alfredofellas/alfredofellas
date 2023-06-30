@@ -1,7 +1,9 @@
 Olá, Me chamo alfredo!👋
 
--🔭 Sou estudante de programação
+-📚 Estou concluindo o ensino medio/tecnico em informática no IFPI-Campus Parnaiba.
 
--🌱 estou aprendendo HTML e CSS
+-💻 Sou estudante de programação.
+
+-🌱 estou aprendendo HTML e CSS.
 
 -📫 alfredoreis009@gmail.com
